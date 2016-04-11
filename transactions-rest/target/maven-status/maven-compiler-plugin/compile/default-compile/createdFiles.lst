@@ -1,0 +1,16 @@
+com\elidjongrembi\transactions\exception\ServiceException.class
+com\elidjongrembi\transactions\api\rest\TransactionsController.class
+com\elidjongrembi\transactions\service\impl\TransactionServiceImpl.class
+com\elidjongrembi\transactions\exception\ResourceNotFoundException.class
+com\elidjongrembi\transactions\dao\jpa\TransactionsRepository.class
+com\elidjongrembi\transactions\domain\Transaction.class
+com\elidjongrembi\transactions\RestControllerAspect.class
+com\elidjongrembi\transactions\service\TransactionService.class
+com\elidjongrembi\transactions\api\rest\TypeController.class
+com\elidjongrembi\transactions\api\rest\BaseController.class
+com\elidjongrembi\transactions\service\BaseService.class
+com\elidjongrembi\transactions\domain\ErrorJson.class
+com\elidjongrembi\transactions\exception\CustomErrorController.class
+com\elidjongrembi\transactions\domain\ResponseJson.class
+com\elidjongrembi\transactions\exception\DataFormatException.class
+com\elidjongrembi\transactions\Application.class
